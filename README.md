@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://user-images.githubusercontent.com/66409384/111483691-5f528180-8778-11eb-920f-a86e00cf22ca.gif)
-🌱 I’m currently learning ... JS , node.js, mongoDB, git, react.js, solidity
+🌱 I’m currently learning ... JS , node.js, mongoDB, git, react.js, solidity, go
